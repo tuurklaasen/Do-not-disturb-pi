@@ -17,7 +17,7 @@ In this file you will find the explanation to create a do not disturb pi
    Change the properties of the change node like the photo below:  
   then connect the inject to the change node and the change node to the first SenseHat node  
 
-![green sense hat](https://user-images.githubusercontent.com/46092824/78167011-05b15400-744e-11ea-8fe1-8a165405bbf8.png)
+![green sense hat](https://user-images.githubusercontent.com/46092824/78167729-35ad2700-744f-11ea-9fd1-b8c209e3988f.png)
 
   3-For the off button repeat step '2-' and change green to off  
 
