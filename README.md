@@ -21,4 +21,7 @@ then connect the inject to the change node and the change node to the first Sens
 
 3-For the off button repeat step '2-' and change green to off
 
-6)You can add a shutdown button by adding a inject and an exec node
+6)You can add a shutdown button by adding a inject and an exec node: and change the properties of the exec node like the photo below
+
+![shutdown](https://user-images.githubusercontent.com/46092824/78167263-7bb5bb00-744e-11ea-933a-26b9838fd53d.png)
+
