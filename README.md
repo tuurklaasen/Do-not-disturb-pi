@@ -25,3 +25,6 @@ then connect the inject to the change node and the change node to the first Sens
 
 ![shutdown](https://user-images.githubusercontent.com/46092824/78167263-7bb5bb00-744e-11ea-933a-26b9838fd53d.png)
 
+If you did all that you should have a flow like this:
+![image](https://user-images.githubusercontent.com/46092824/78167429-c2a3b080-744e-11ea-8bc3-4fc99413b98f.png)
+
